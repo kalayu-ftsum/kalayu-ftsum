@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalayu-ftsum&label=Profile%20views&color=0e75b6&style=flat" alt="kalayu-ftsum" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalayu-ftsum&theme=onedark&margin-w=15" alt="kalayu-ftsum" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalayu-ftsum&theme=onedark&margin-w=15&margin-h=15" alt="kalayu-ftsum" /></a> </p>
 
 - 🔭 I’m currently working on [Blog posts website](https://blog-posts-rouge.vercel.app/)
 
