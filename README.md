@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **React,Node and Mongodb.**
 
-- 📫 How to reach me **wonder.to.96@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kalayu-ftsum-mulgeta-280634278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kalayu-ftsum-mulgeta-280634278/" height="30" width="40" /></a>
